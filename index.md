@@ -1,5 +1,5 @@
-# Joseph Fahnestock
-### [github](https://www.github.com/jfahne) [insta](https://www.instagram.com/joecupojoe) [resume](resume_9_10_19.pdf)
+# Joseph Fahnestock ![me](me.jpg)
+### [github](https://www.github.com/jfahne) [linkedin](https://www.linkedin.com/in/joseph-fahnestock-712999141) [resume](resume_9_10_19.pdf)
 ## Computational Physics and Operations Research
 ## University of Illinois - Urbana-Champaign
 
