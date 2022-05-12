@@ -2,7 +2,8 @@
 ### [🤖 github](https://www.github.com/jfahne) [📑 linkedin](https://www.linkedin.com/in/joseph-fahnestock-712999141)
 ## DevOps Engineer, Our Daily Bread Ministries
 ## MS Data Science, Grand Valley State University 
-## BS Computational Physics and Statistics, University of Illinois Urbana-Champaign
+## BS Computational Physics, University of Illinois Urbana-Champaign
+## BS Statistics, University of Illinois Urbana-Champaign
 
 Welcome to my personal website.
 
