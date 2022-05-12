@@ -5,4 +5,7 @@
 ## BS Computational Physics and Statistics, University of Illinois Urbana-Champaign
 
 Welcome to my personal website.
-[Spectral Clustering Analysis for GVSU STA 518](sta518final)
+
+Projects:
+
+* [Spectral Clustering Analysis for GVSU STA 518](sta518final)
