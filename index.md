@@ -1,6 +1,6 @@
 # Joseph Fahnestock ![me](me_small.jpg)
 ### [🤖 github](https://www.github.com/jfahne) [📑 linkedin](https://www.linkedin.com/in/joseph-fahnestock-712999141)
-## Data Scientist, Our Daily Bread Ministries
+## Data Engineer, Hy-Vee, Inc.
 ## MS Data Science, Grand Valley State University 
 ## BS Computational Physics, University of Illinois Urbana-Champaign
 ## BS Statistics, University of Illinois Urbana-Champaign
